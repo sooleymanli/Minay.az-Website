@@ -15,3 +15,6 @@
 3. Gmap 
 4. AOS Data 
 5. Owl carousel
+
+## Note 
+Videos are different in index and index2..
