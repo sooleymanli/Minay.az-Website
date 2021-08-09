@@ -1,0 +1,1 @@
+# Minay.az
